@@ -1,0 +1,20 @@
+﻿[
+  {
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "Academics": {
+      "gpa": 4.00,
+      "major": "Computer Science"
+    }
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Jones",
+    "Academics": {
+      "gpa": 3.40,
+      "major": "Physics"
+    }
+
+  }
+
+    ]

@@ -1,0 +1,9 @@
+C:\Users\btsig\source\repos\Tuesday\Week11\bin\Week11.dll.config
+C:\Users\btsig\source\repos\Tuesday\Week11\bin\Week11.dll
+C:\Users\btsig\source\repos\Tuesday\Week11\bin\Week11.pdb
+C:\Users\btsig\source\repos\Tuesday\Week11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\btsig\source\repos\Tuesday\Week11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\btsig\source\repos\Tuesday\Week11\obj\Debug\Week11.csprojResolveAssemblyReference.cache
+C:\Users\btsig\source\repos\Tuesday\Week11\obj\Debug\Week11.csproj.CoreCompileInputs.cache
+C:\Users\btsig\source\repos\Tuesday\Week11\obj\Debug\Week11.dll
+C:\Users\btsig\source\repos\Tuesday\Week11\obj\Debug\Week11.pdb
